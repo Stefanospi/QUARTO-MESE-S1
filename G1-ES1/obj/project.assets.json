@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Epicode\\QUARTO MESE\\QUARTO-MESE-S1\\S1-E1\\S1-E1\\S1-E1.csproj",
-      "projectName": "S1-E1",
-      "projectPath": "D:\\Epicode\\QUARTO MESE\\QUARTO-MESE-S1\\S1-E1\\S1-E1\\S1-E1.csproj",
+      "projectUniqueName": "D:\\Epicode\\QUARTO MESE\\QUARTO-MESE-S1\\G1-ES1\\G1-ES1.csproj",
+      "projectName": "G1-ES1",
+      "projectPath": "D:\\Epicode\\QUARTO MESE\\QUARTO-MESE-S1\\G1-ES1\\G1-ES1.csproj",
       "packagesPath": "C:\\Users\\spita\\.nuget\\packages\\",
-      "outputPath": "D:\\Epicode\\QUARTO MESE\\QUARTO-MESE-S1\\S1-E1\\S1-E1\\obj\\",
+      "outputPath": "D:\\Epicode\\QUARTO MESE\\QUARTO-MESE-S1\\G1-ES1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spita\\AppData\\Roaming\\NuGet\\NuGet.Config",
