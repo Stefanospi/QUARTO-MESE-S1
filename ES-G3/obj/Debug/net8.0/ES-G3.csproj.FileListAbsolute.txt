@@ -1,0 +1,15 @@
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.AssemblyInfoInputs.cache
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.AssemblyInfo.cs
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.csproj.CoreCompileInputs.cache
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.sourcelink.json
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\bin\Debug\net8.0\ES-G3.exe
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\bin\Debug\net8.0\ES-G3.deps.json
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\bin\Debug\net8.0\ES-G3.runtimeconfig.json
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\bin\Debug\net8.0\ES-G3.dll
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\bin\Debug\net8.0\ES-G3.pdb
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.dll
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\refint\ES-G3.dll
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.pdb
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ES-G3.genruntimeconfig.cache
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G3\obj\Debug\net8.0\ref\ES-G3.dll
