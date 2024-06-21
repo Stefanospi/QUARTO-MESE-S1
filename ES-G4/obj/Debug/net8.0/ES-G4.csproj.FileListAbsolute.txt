@@ -1,0 +1,15 @@
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\bin\Debug\net8.0\ES-G4.exe
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\bin\Debug\net8.0\ES-G4.deps.json
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\bin\Debug\net8.0\ES-G4.runtimeconfig.json
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\bin\Debug\net8.0\ES-G4.dll
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\bin\Debug\net8.0\ES-G4.pdb
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.AssemblyInfoInputs.cache
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.AssemblyInfo.cs
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.csproj.CoreCompileInputs.cache
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.sourcelink.json
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.dll
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\refint\ES-G4.dll
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.pdb
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ES-G4.genruntimeconfig.cache
+D:\Epicode\QUARTO MESE\QUARTO-MESE-S1\ES-G4\obj\Debug\net8.0\ref\ES-G4.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ES3-G3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9bd148150f8a8fa1a9ae4c7b7bfa4fe1072276d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d69605ea4ba3c032c95f0efd4496b5f3c6810fda")]
 [assembly: System.Reflection.AssemblyProductAttribute("ES3-G3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ES3-G3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
